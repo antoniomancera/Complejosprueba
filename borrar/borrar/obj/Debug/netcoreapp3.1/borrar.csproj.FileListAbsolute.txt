@@ -1,0 +1,13 @@
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\bin\Debug\netcoreapp3.1\borrar.exe
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\bin\Debug\netcoreapp3.1\borrar.deps.json
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\bin\Debug\netcoreapp3.1\borrar.runtimeconfig.json
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\bin\Debug\netcoreapp3.1\borrar.runtimeconfig.dev.json
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\bin\Debug\netcoreapp3.1\borrar.dll
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\bin\Debug\netcoreapp3.1\borrar.pdb
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.csprojAssemblyReference.cache
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.AssemblyInfoInputs.cache
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.AssemblyInfo.cs
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.csproj.CoreCompileInputs.cache
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.dll
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.pdb
+C:\Users\kali\Desktop\Antonio\C#\borrar\borrar\borrar\obj\Debug\netcoreapp3.1\borrar.genruntimeconfig.cache

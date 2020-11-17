@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9F7Ac7qqz5QPh6jbk/rQGhFmwLGXYkhTZ6tVGxsAFrOh48lrh8kaHC+mr+mhCyivsfJjsIf6brO2c8Z8w+gcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kali\\Desktop\\Antonio\\C#\\borrar\\borrar\\borrar\\borrar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kali\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
